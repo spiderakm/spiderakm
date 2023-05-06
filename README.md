@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hello! I'm a backend developer with a passion for building robust and scalable web applications. I'm proficient in Node.js, Express.js, Python, AWS (EC2, S3, RDS), Git, Linux, Jenkins, Docker, MySQL, MongoDB, Nginx, and more.<br><br>As a recent graduate, I'm excited to jump into the industry and apply my knowledge and skills to real-world projects. I'm a team player with excellent communication skills, and I thrive in fast-paced environments where I can work collaboratively to solve problems and create innovative solutions.<br><br>In my spare time, I enjoy attending hackathons and working on personal projects to further develop my skills. I'm always looking for opportunities to learn and grow, and I'm committed to staying up-to-date with the latest technologies and industry trends.<br><br>If you're looking for a dedicated and hardworking developer to join your team, please feel free to contact me!
 
+You can contact me at:
+
+<a href="mailto:your-email-address@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x.png" alt="Gmail Logo" width="20" height="auto"/> spider.akm@gmail.com</a>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imashok) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SpiderAks) 
