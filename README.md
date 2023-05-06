@@ -22,6 +22,6 @@ Hello! I'm a backend developer with a passion for building robust and scalable w
 ![](https://github-contributor-stats.vercel.app/api?username=spiderakm&limit=5&theme=oldie&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=spiderakm&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
