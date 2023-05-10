@@ -3,7 +3,7 @@ Hello! I'm a backend developer with a passion for building robust and scalable w
 
 You can contact me at:
 
-<a href="mailto:your-email-address@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x.png" alt="Gmail Logo" width="20" height="auto"/> spider.akm@gmail.com</a>
+<a href="spider.akm@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x.png" alt="Gmail Logo" width="20" height="auto"/> spider.akm@gmail.com</a>
 
 
 ## 🌐 Socials:
