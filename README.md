@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hello! I'm a backend developer with a passion for building robust and scalable web applications. I'm proficient in Node.js, Express.js, Python, AWS (EC2, S3, RDS), Git, Linux, Jenkins, Docker, MySQL, MongoDB, Nginx, and more.<br><br>As a recent graduate, I'm excited to jump into the industry and apply my knowledge and skills to real-world projects. I'm a team player with excellent communication skills, and I thrive in fast-paced environments where I can work collaboratively to solve problems and create innovative solutions.<br><br>In my spare time, I enjoy attending hackathons and working on personal projects to further develop my skills. I'm always looking for opportunities to learn and grow, and I'm committed to staying up-to-date with the latest technologies and industry trends.<br><br>If you're looking for a dedicated and hardworking developer to join your team, please feel free to contact me!
 
-<a href="https://drive.google.com/file/d/1wvKF9_FJgkqs3s9FMIOlz34TgGO8v-UQ/view"> width="20" height="auto"/> resume</a>
+Checkout my latest resume
+<a href="https://drive.google.com/file/d/1wvKF9_FJgkqs3s9FMIOlz34TgGO8v-UQ/view"> resume </a>
 
 You can contact me at:
 
